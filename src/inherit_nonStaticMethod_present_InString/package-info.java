@@ -1,0 +1,1 @@
+package inherit_nonStaticMethod_present_InString;
